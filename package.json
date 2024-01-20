@@ -1,0 +1,22 @@
+{
+  "name": "qamasterclass",
+  "version": "1.0.0",
+  "description": "Page to test: https://testpages.eviltester.com/styled/calculator",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shweta-MG/QAMasterclass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shweta-MG/QAMasterclass/issues"
+  },
+  "homepage": "https://github.com/Shweta-MG/QAMasterclass#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.41.1",
+    "@types/node": "^20.11.5"
+  }
+}
